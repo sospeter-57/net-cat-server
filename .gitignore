@@ -3,13 +3,8 @@ net-cat-README.md
 net-cat-audit-README.md
 
 # project binaries
-cmd/server/main
-cmd/server/server
 
 # local project log files
 logs/*
 
 # binaries
-TCPChat
-server
-net-cat
